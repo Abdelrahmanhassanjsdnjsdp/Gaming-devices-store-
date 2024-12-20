@@ -1,4 +1,4 @@
-# Epic Games Store - Web Page Project
+#  Gameing Devices Store - Web Page Project
 
 ## Overview
 This project is a visually appealing and interactive web page for the "Epic Games Store." It is designed to showcase gaming accessories and provide an engaging user experience with a sleek interface, dynamic elements, and responsive design.
